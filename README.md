@@ -19,4 +19,5 @@
 - https://hyunsuk2.github.io/2018/01/16/ssh/
 ### 2) How to run "soruce ./bashrc" autometically when TMUX sesssion, window, and pannel are opened.
 - Adding the below comment to '~/.bash_profile'
+
 	source ~/.bashrc
