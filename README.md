@@ -17,7 +17,7 @@
 ## TIP
 ### 1) How to transfer the file and diretories in local computer to server computer
 - https://hyunsuk2.github.io/2018/01/16/ssh/
-### 2) How to run "soruce ./bashrc" autometically when TMUX sesssion, window, and pannel are opened.
+### 2) How to run "soruce ./bashrc" automatically when TMUX sesssion, window, and pannel are opened.
 - Adding the below comment to '~/.bash_profile'
 
 	source ~/.bashrc
